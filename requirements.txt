@@ -5,4 +5,4 @@ requests==2.32.4
 requests-file==1.5.1
 six==1.15.0
 tldextract==2.2.3
-urllib3==1.26.19
+urllib3==2.5.0
